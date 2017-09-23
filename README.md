@@ -3,7 +3,7 @@
 The scripts in this repository dump the text of the Gigaword dataset into a single file, for use 
 with language modeling (and other!) toolkits.
 
-See my [blog post on flattening the Gigaword corpus](https://blog.nelsonliu.me/flattening-the-gigaword-corpus/) for 
+See my [blog post on flattening the Gigaword corpus](https://blog.nelsonliu.me/2017/09/23/flattening-the-gigaword-corpus/) for 
 more information about how the code in this repo works.
 
 ## Table of Contents
