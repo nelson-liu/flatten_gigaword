@@ -3,6 +3,14 @@
 The scripts in this repository dump the text of the Gigaword dataset into a single file, for use 
 with language modeling (and other!) toolkits.
 
+See my [blog post on flattening the Gigaword corpus](https://blog.nelsonliu.me/flattening-the-gigaword-corpus/) for 
+more information about how the code in this repo works.
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+
 ## Installation
 
 To run this code, you must have **GNU Parallel**. This can be installed on Ubuntu with:
